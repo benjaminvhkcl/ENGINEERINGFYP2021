@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 #import file and initiate file and parameters
 
-scale_file = "audio/Untitled.m4a"
+scale_file = "Untitled.m4a"
 
 
 ipd.Audio(scale_file)
