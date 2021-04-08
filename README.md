@@ -1,4 +1,7 @@
-# ENGINEERINGFYP2021
+# FINAL YEAR PROJECT 
+# BENJAMIN VAN HOOLAND K1890966
+# King's College London
+# 2020-2021
 The Code is this Repository includes the Experiment Code for my 2021 Electronic Engineering Final Year Project
 
 spectro.py states the code written for the creation of Log-Mel Spectrogram of an arbitrary Audio File. The audio file processed is a personal recording "Untitled.m4a"
